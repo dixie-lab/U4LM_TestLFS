@@ -4,3 +4,4 @@
 >>>>>>> parent of 11edb57... Test_PSD-LFS
 =======
 >>>>>>> parent of 11edb57... Test_PSD-LFS
+*.psd filter=lfs diff=lfs merge=lfs -text
